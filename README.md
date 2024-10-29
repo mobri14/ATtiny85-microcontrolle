@@ -1,5 +1,11 @@
 # ATtiny85-microcontrolle
-Sure! Here’s the translation of your text into English:
+
+
+https://github.com/mobri14/ATtiny85/blob/main/README.md
+
+
+https://github.com/mobri14/ATtiny85-code/blob/main/README.md
+
 
 ---
 
